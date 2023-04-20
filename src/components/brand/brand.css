@@ -1,0 +1,11 @@
+.gpt4__brand{
+    padding: 4rem 6rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.gpt4__brand div{
+    margin: 15px;
+    
+}
